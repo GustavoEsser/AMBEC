@@ -1,2 +1,9 @@
-# Projeto AMBEC
-Analise de Malware baseados em cenários reais da mitigação a prevenção 
+```
+                        █████╗ ███╗   ███╗██████╗ ███████╗ ██████╗
+                        ██╔══██╗████╗ ████║██╔══██╗██╔════╝██╔════╝
+                        ███████║██╔████╔██║██████╔╝█████╗  ██║     
+                        ██╔══██║██║╚██╔╝██║██╔══██╗██╔══╝  ██║     
+                        ██║  ██║██║ ╚═╝ ██║██████╔╝███████╗╚██████╗
+                        ╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚══════╝ ╚═════╝                          
+            Analise de Malware baseados em cenários reais da mitigação a prevenção    
+                                By: Gustavo Henrique Esser
