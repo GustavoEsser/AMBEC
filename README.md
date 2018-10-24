@@ -1,6 +1,5 @@
 ![preview](http://i1247.photobucket.com/albums/gg627/gustavo1110/logo_zpskd5pfqjm.png)
-
-<hr/> 
+#
 
 ![Version](https://img.shields.io/badge/ambec-1.0.0-blue.svg)
 ![License](https://img.shields.io/dub/l/vibe-d.svg)
