@@ -7,14 +7,14 @@
 ![Stage](https://img.shields.io/badge/release-Stable-blue.svg)
 ![OS Linux](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg)
 
-                                      █████╗ ███╗   ███╗██████╗ ███████╗ ██████╗
-                                      ██╔══██╗████╗ ████║██╔══██╗██╔════╝██╔════╝
-                                      ███████║██╔████╔██║██████╔╝█████╗  ██║     
-                                      ██╔══██║██║╚██╔╝██║██╔══██╗██╔══╝  ██║     
-                                      ██║  ██║██║ ╚═╝ ██║██████╔╝███████╗╚██████╗
-                                      ╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚══════╝ ╚═════╝                          
-                          Analise de Malware baseados em cenários reais da mitigação a prevenção   
-                                              By: Gustavo Henrique Esser  
+                                  █████╗ ███╗   ███╗██████╗ ███████╗ ██████╗
+                                  ██╔══██╗████╗ ████║██╔══██╗██╔════╝██╔════╝
+                                  ███████║██╔████╔██║██████╔╝█████╗  ██║     
+                                  ██╔══██║██║╚██╔╝██║██╔══██╗██╔══╝  ██║     
+                                  ██║  ██║██║ ╚═╝ ██║██████╔╝███████╗╚██████╗
+                                  ╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚══════╝ ╚═════╝                          
+                      Analise de Malware baseados em cenários reais da mitigação a prevenção   
+                                          By: Gustavo Henrique Esser  
 
 
 # Objetivo 
