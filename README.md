@@ -1,6 +1,6 @@
-![AMBEC][logo]
+![preview](http://i1247.photobucket.com/albums/gg627/gustavo1110/logo_zpskd5pfqjm.png)
 
-# AMBEC
+#  
 
 ![Version](https://img.shields.io/badge/ambec-1.0.0-blue.svg)
 ![License](https://img.shields.io/dub/l/vibe-d.svg)
@@ -13,10 +13,8 @@
                         ██╔══██║██║╚██╔╝██║██╔══██╗██╔══╝  ██║     
                         ██║  ██║██║ ╚═╝ ██║██████╔╝███████╗╚██████╗
                         ╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚══════╝ ╚═════╝                          
-        Analise de Malware baseados em cenários reais da mitigação a prevenção   
+            Analise de Malware baseados em cenários reais da mitigação a prevenção   
                                 By: Gustavo Henrique Esser  
-
-
 
 
 # Objetivo 
