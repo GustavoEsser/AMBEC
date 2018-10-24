@@ -1,3 +1,5 @@
+![AMBEC][logo]
+
 # AMBEC
 
 ![Version](https://img.shields.io/badge/ambec-1.0.0-blue.svg)
@@ -16,3 +18,8 @@
 
 
 
+
+# Objetivo 
+Análise de Malware baseados em cenários reais da mitigação a prevenção e abordará a construção e a execução de uma arquitetura de segurança totalmente open source para diversos tipos de ambientes computacionais, buscando identificar e correlacionar ameaças de segurança da informação.        
+
+#
