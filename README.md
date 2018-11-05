@@ -18,13 +18,13 @@
 
 
 # Objetivo 
-Análise de Malware baseados em cenários reais da mitigação a prevenção e abordará a construção e a execução de uma arquitetura de segurança totalmente open source para diversos tipos de ambientes computacionais, buscando identificar e correlacionar ameaças de segurança da informação.        
+Análise de Malware baseados em cenários reais da mitigação a prevenção e abordará a construção e a execução de uma arquitetura de segurança da informação totalmente open source, escalável e dinâmica. Para diversos tipos de ambientes computacionais, buscando identificar e correlacionar as ameaças de segurança da informação. Sem afetar os 3 pilares da segurança a disponibilidade, integridade e a confidencialidade.  
 
 # Objetivos Especificos 
 
 
 # Arquitetura 
-![Arquitetura](http://i1247.photobucket.com/albums/gg627/gustavo1110/Arquitetura_zpsstyypgxw.png)
+![Arquitetura](http://i1247.photobucket.com/albums/gg627/gustavo1110/Arquitetura_zpsfbaw9aax.png)
 
 # Getting Started
 
