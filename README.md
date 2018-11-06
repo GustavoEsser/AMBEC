@@ -26,6 +26,9 @@ Análise de Malware baseados em cenários reais da mitigação a prevenção abo
 # Arquitetura 
 ![Arquitetura](http://i1247.photobucket.com/albums/gg627/gustavo1110/Arquitetura_zpsfbaw9aax.png)
 
+# Componentes 
+![Componentes](http://i1247.photobucket.com/albums/gg627/gustavo1110/Processo_zpsrjsfucfo.png)
+
 # Getting Started
 
 
