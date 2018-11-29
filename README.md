@@ -40,7 +40,7 @@ Análise de Malware baseados em cenários reais da mitigação a prevenção abo
 Veja nossa [wiki](https://github.com/GustavoEsser/AMBEC/wiki) para documentação completa.
 
 # Dashboards
-The following dashboards are provided.
+Algumas dashboards fornecidas pela AMBEC.
 
 ### Security Events 
 
