@@ -49,6 +49,9 @@ Algumas dashboards fornecidas pela AMBEC.
 ### PCI-DSS
 ![PCI-DSS](http://i1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/PCI-DSS_zpsnas86xsv.png)
 
+### GDPR
+![GDPR](https://i1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/GDPR_zps6mvlzvix.png)
+
 # Licença 
 
 AMBEC é lançado sob a [MIT license](LICENSE.txt).
