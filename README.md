@@ -40,13 +40,14 @@ Análise de Malware baseados em cenários reais da mitigação a prevenção abo
 Veja nossa [wiki](https://github.com/GustavoEsser/AMBEC/wiki) para documentação completa.
 
 # Dashboards
+The following dashboards are provided.
 
-### Sankey
+### Security Events 
 
-![Sankey](https://user-images.githubusercontent.com/10326954/39966483-c14a3aa4-56ac-11e8-9319-a56b2bf60d9f.png)
+![Security](https://i1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/Security%20eventos_zps68wrgl4y.png)
 
-### Geo IP
-![Geo IP](https://user-images.githubusercontent.com/10326954/39966487-cd06acf6-56ac-11e8-9da7-1bff5e822d8d.png)
+### PCI-DSS
+![PCI-DSS](http://i1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/PCI-DSS_zpsnas86xsv.png)
 
 # Licença 
 
