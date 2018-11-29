@@ -44,14 +44,17 @@ Seguem algumas dashboards e gráficos que a AMBEC proporciona para nós:
 
 ### Security Events
 Nesta dashboard e possível identificar todo e qualquer evento de segurança da informação que ocorreu no servidor monitorado.
+
 ![Security](https://i1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/Security%20eventos_zps68wrgl4y.png)
 
 ### PCI-DSS
 Nivel de conformidade com a norma de segurança PCI-DSS
+
 ![PCI-DSS](http://i1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/PCI-DSS_zpsnas86xsv.png)
 
 ### GDPR
 Nivel de conformidade com a norma de segurança GDPR
+
 ![GDPR](https://i1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/GDPR_zps6mvlzvix.png)
 
 # Licença 
