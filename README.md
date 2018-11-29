@@ -28,7 +28,7 @@ Análise de Malware baseados em cenários reais da mitigação a prevenção abo
 
 * Validar os princípios de compliance internacionais e nacionais alinhados a estratégia de segurança.
 
-* Verificar a conformidade com as normas ISO27001 e PSI-DSS e gestão de incidentes de segurança.
+* Verificar a conformidade com as normas PSI-DSS e GDPR e gestão de incidentes de segurança.
 
 # Arquitetura 
 ![Arquitetura](http://i1247.photobucket.com/albums/gg627/gustavo1110/Arquitetura_zpsfbaw9aax.png)
