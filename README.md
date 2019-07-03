@@ -1,4 +1,4 @@
-![preview](http://i1247.photobucket.com/albums/gg627/gustavo1110/logo_zpskd5pfqjm.png)
+![preview](https://github.com/GustavoEsser/AMBEC/blob/master/img/logo.png?raw=true)
 
 <hr/> 
 
