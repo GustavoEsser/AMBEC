@@ -31,10 +31,10 @@ Análise de Malware baseados em cenários reais da mitigação a prevenção abo
 * Verificar a conformidade com as normas PSI-DSS e GDPR e gestão de incidentes de segurança.
 
 # Arquitetura 
-![Arquitetura](http://i1247.photobucket.com/albums/gg627/gustavo1110/Arquitetura_zpsfbaw9aax.png)
+![Arquitetura](http://oi1247.photobucket.com/albums/gg627/gustavo1110/Arquitetura_zpsfbaw9aax.png)
 
 # Componentes 
-![Componentes](http://i1247.photobucket.com/albums/gg627/gustavo1110/Processo_zpsrjsfucfo.png)
+![Componentes](http://oi1247.photobucket.com/albums/gg627/gustavo1110/Processo_zpsrjsfucfo.png)
 
 # Getting Started
 Veja nossa [wiki](https://github.com/GustavoEsser/AMBEC/wiki) para documentação completa.
@@ -45,17 +45,17 @@ Seguem algumas dashboards e gráficos que a AMBEC proporciona para nós:
 ### Security Events
 Nesta dashboard e possível identificar todo e qualquer evento de segurança da informação que ocorreu no servidor monitorado.
 
-![Security](https://i1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/Security%20eventos_zps68wrgl4y.png)
+![Security](https://oi1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/Security%20eventos_zps68wrgl4y.png)
 
 ### PCI-DSS
 Nivel de conformidade com a norma de segurança PCI-DSS
 
-![PCI-DSS](http://i1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/PCI-DSS_zpsnas86xsv.png)
+![PCI-DSS](http://oi1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/PCI-DSS_zpsnas86xsv.png)
 
 ### GDPR
 Nivel de conformidade com a norma de segurança GDPR
 
-![GDPR](https://i1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/GDPR_zps6mvlzvix.png)
+![GDPR](https://oi1247.photobucket.com/albums/gg627/gustavo1110/AMBEC/GDPR_zps6mvlzvix.png)
 
 # Licença 
 
